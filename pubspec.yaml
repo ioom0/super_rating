@@ -1,6 +1,6 @@
 name: super_rating
 description: super_rating is a Flutter package that provides a customizable rating bar widget with various styles and configurations.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/ioom0/super_rating
 
 environment:
